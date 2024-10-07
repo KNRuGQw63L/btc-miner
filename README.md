@@ -3,7 +3,7 @@
 ## This is a python project to easily mine BTC!  
   
 ### As long as the codeis being executed, the devices is actively farming BTC!
-
+ 
 # Guide on how to use these tool
  
 1. Install Python from
