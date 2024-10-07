@@ -26,4 +26,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---  
  
-**Disclaimer**: This script is provided as-is, and the authors are not responsible for any misuse or unintended consequences. Always ensure you have permission before running such scripts.
+**Disclaimer**: This script is provided as-is, and the authors are not responsible for any misuse or unintended consequences. Always ensure you have permission before running such scripts. 
