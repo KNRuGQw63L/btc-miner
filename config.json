@@ -1,0 +1,7 @@
+{
+    "btc_address": "your_bitcoin_address",
+    "pool_url": "stratum+tcp://btcp:2323",
+    "difficulty": 4,
+    "threads": 4
+  }
+  
