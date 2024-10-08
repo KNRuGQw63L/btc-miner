@@ -15,7 +15,7 @@
 4. Go in the extracted folder and open the start.bat file
 
 5. Enjoy! 
- 
+  
 ## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
