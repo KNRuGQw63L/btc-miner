@@ -1,4 +1,4 @@
-# Bitcoin Miner
+# Bitcoin Miner 
  
 ## This is a python project to easily mine BTC!  
    
