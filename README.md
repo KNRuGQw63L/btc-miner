@@ -1,5 +1,5 @@
 # Bitcoin Miner 
- 
+  
 ## This is a python project to easily mine BTC!  
     
 ### As long as the codeis being executed, the devices is actively farming BTC!
