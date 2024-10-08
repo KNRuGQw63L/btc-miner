@@ -5,7 +5,7 @@
 ### As long as the codeis being executed, the devices is actively farming BTC! 
    
 # Guide on how to use these tool  
-  
+   
 1. Install Python from 
 
 2. Download the repo as a ZIP 
