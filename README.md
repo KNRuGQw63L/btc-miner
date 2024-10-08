@@ -24,6 +24,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.     
  
----    
+---     
   
 **Disclaimer**: This script is provided as-is, and the authors are not responsible for any misuse or unintended consequences. Always ensure you have permission before running such scripts. 
